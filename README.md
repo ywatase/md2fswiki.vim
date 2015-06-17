@@ -30,6 +30,12 @@ requires
 make
 ```
 
+or
+
+```
+cpanm -n git@github.com:ywatase/md2fswiki.git
+```
+
 ## License
 
 [MIT](https://github.com/ywatase/md2fswiki.vim/blob/master/LICENSE)
